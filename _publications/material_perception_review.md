@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/material_perception_review
 excerpt: 'Humans can infer a range of material properties from a brief glance. In this Review, we discuss the varied facets of visual material perception, including its relationship to action planning and broader cognition.'
-date: 2024-10-03
+date: 2025-09-15
 venue: 'Nature Reviews Psychology'
 paperurl: 'https://doi.org/10.1038/s44159-025-00489-z'
 citation: 'Xiao, B., Liao, C. Material perception connects vision, cognition and action. Nat Rev Psychol (2025).'
