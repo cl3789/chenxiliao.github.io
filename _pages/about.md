@@ -38,7 +38,7 @@ Education
 
 Curriculum Vitae
 ========
-[Chenxi's CV](/files/Liao_CV_2025_June_20.pdf)
+[Chenxi's CV](https://cl3789.github.io/chenxiliao.github.io/files/Liao_CV_Sept2025.pdf)
 
 
 Project Repo
